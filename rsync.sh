@@ -1,1 +1,1 @@
-rsync -avz . /var/www/html/
+rsync -avz . /var/www/html/ --delete
